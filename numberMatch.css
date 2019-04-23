@@ -1,0 +1,56 @@
+div#memory_board{
+    background: #06A979;
+    border: #999 1px solid;
+    width: 800px;
+    height: 540px;
+    padding: 24px;
+    margin: 0px auto;
+}
+div#memory_board > div{
+    background: #1D3A43;
+    border: #000 1px solid;
+    width: 71px;
+    height: 71px;
+    float: left;
+    margin: 10px;
+    padding: 20px;
+    font-size: 80px;
+    cursor: pointer;
+    text-align: center;
+}
+h1{
+    background-color: #22F5B7;
+    color: #1D3A43;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3em;
+}
+/*var memory_array = ['Green','Green','Yellow','Yellow','Linen','Linen','GoldenRod','GoldenRod','Tan','Tan'];*/
+/*#tile_0, #tile_1{
+    background-color:'Red';
+    color:'Red';
+}
+#tile_2, #tile_3{
+    background-color:'Blue';
+    color:'Blue';
+}
+#tile_4, #tile_5{
+    background-color:'Orange';
+    color:'Orange';
+}
+#tile_6, #tle_7{
+    background-color:'Black';
+    color:'Black';
+}
+#tile_8, #tile_9{
+    background-color:'Gray';
+    color:'Gray';
+}
+#tile_10, #tile_11{
+    background-color:'Purple';
+    color:'Purple';
+}
+#tile_12, #tile_13{
+    background-color:'Pink';
+    color:'Pink';
+}*/
